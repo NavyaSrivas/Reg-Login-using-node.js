@@ -92,5 +92,5 @@ app.use((err, req, res, next) => {
 
 const port = 5002;
 app.listen(port, ()=>{
-  console.log(`Server runing on the port: ${port}`);
+  console.log(`Server running on the port: ${port}`);
 })
